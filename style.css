@@ -1,0 +1,38 @@
+* {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 12;
+
+}
+body{
+	border: 2px ridge rgb(113, 120, 124);
+	padding: 15px;
+}
+h2{
+	font-size: 22px;
+}
+table, tr, th, td {
+	width: 100%;
+	border: 1px solid grey;
+	border-collapse: collapse;
+	padding: 5px;
+}
+th, td {
+	text-align: left;
+}
+th{
+	text-align: right;
+	width: 28%;
+}
+td{
+	width: 50%;
+}
+h3{
+	font-size: 14;
+}
+#img{
+	padding-right: 40px;
+}
+footer{
+	padding-right: 35px;
+	padding-bottom: 50px;
+}
